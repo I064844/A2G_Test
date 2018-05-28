@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><asx:abap xmlns:asx="http://www.sap.com/abapxml">
+<asx:values>
+<TADIR/>
+<USR04>
+<USR04>
+<MANDT>000</MANDT>
+<BNAME>DDIC</BNAME>
+<MODDA>1998-10-07</MODDA>
+<MODTI>22:25:21</MODTI>
+<MODBE>SAP</MODBE>
+<NRPRO>26</NRPRO>
+<PROFS>M SAP_ALL     S_A.SYSTEM</PROFS>
+</USR04>
+</USR04>
+</asx:values>
+</asx:abap>
